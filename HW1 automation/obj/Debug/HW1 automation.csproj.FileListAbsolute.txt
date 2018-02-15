@@ -1,0 +1,9 @@
+c:\users\amir\documents\visual studio 2015\Projects\HW1 automation\HW1 automation\bin\Debug\HW1 automation.exe.config
+c:\users\amir\documents\visual studio 2015\Projects\HW1 automation\HW1 automation\bin\Debug\HW1 automation.exe
+c:\users\amir\documents\visual studio 2015\Projects\HW1 automation\HW1 automation\bin\Debug\HW1 automation.pdb
+c:\users\amir\documents\visual studio 2015\Projects\HW1 automation\HW1 automation\obj\Debug\HW1_automation.Form1.resources
+c:\users\amir\documents\visual studio 2015\Projects\HW1 automation\HW1 automation\obj\Debug\HW1_automation.Properties.Resources.resources
+c:\users\amir\documents\visual studio 2015\Projects\HW1 automation\HW1 automation\obj\Debug\HW1 automation.csproj.GenerateResource.Cache
+c:\users\amir\documents\visual studio 2015\Projects\HW1 automation\HW1 automation\obj\Debug\HW1 automation.exe
+c:\users\amir\documents\visual studio 2015\Projects\HW1 automation\HW1 automation\obj\Debug\HW1 automation.pdb
+C:\Users\Amir\Documents\Visual Studio 2015\Projects\HW1 automation\HW1 automation\obj\Debug\HW1 automation.csprojResolveAssemblyReference.cache
