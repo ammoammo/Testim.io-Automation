@@ -1,6 +1,8 @@
 #Testim.io-Automation
 
-This is a desktop app, written in C#. This app will automate and run tests created with [Testim.io](https://www.testim.io/).
+This is an assignment I got in my Software Engineer degree. It's a desktop app, written in C#. 
+
+This app will automate and run tests created with [Testim.io](https://www.testim.io/).
 
 ## How to:
 1. Create account in [Testim.io](https://www.testim.io/).
@@ -25,4 +27,4 @@ Optional:
 
 ###Preview Image:
 
-![alt text](https://github.com/ammoammo/Testim.io-Automation/img/preview.JPG "Preview Image")
+![alt text](https://github.com/ammoammo/Testim.io-Automation/blob/master/img/preview.JPG "Preview Image")
